@@ -1,3 +1,4 @@
+
 package extratwo;
 
 import javax.swing.JOptionPane;
@@ -59,29 +60,49 @@ public static void main(String[] args) {
 //	}
 	
 //2	
-	int k=1;
+	//int k=1;
 	
-	for(int i=1;i<4;i++) {
-		String wha="";
-		for(int j=1;j<4;j++) {
-		wha+=Integer.toString(k)+" ";
-		k=k+1;
-	}
-		System.out.println(wha);
-	}
-	
-	
+	//for(int i=1;i<4;i++) {
+		//String wha="";
+		//for(int j=1;j<4;j++) {
+		//wha+=Integer.toString(k)+" ";
+		//k=k+1;
+	//}
+		//System.out.println(wha);
+	//}
 	
 	
+//3	
+	//int m=1;
+	
+	//for(int i=1; i<11;i++) {
+		//String bogus="";
+		//for(int j=1;j<11;j++) {
+			//bogus+=Integer.toString(m)+" ";
+			//m=m+1;
+		//}
+		//System.out.println(bogus);
+	//}
 	
 	
+	//4
 	
+	//String three=" ";
 	
+		//for(int i=1;i<7;i++) {
+			//three+="*";
+			//System.out.println(three);
+		//}
+		
 	
+	//Bonus?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!
 	
-	
-	
-	
+	//for(int i=0;i<1;i++) {
+		//for(int j=100;j>=0;j--) {
+			//System.out.println(j);
+		//}
+		
+	//}
 	
 	
 	
