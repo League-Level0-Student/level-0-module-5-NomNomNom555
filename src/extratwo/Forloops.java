@@ -72,56 +72,36 @@ public static void main(String[] args) {
 //	}
 	
 	
-//3	
-	//int m=1;
-	
-	//for(int i=1; i<11;i++) {
-		//String bogus="";
-		//for(int j=1;j<11;j++) {
-			//bogus+=Integer.toString(m)+" ";
-			//m=m+1;
-		//}
-		//System.out.println(bogus);
-	//}
+////3	
+//	int m=1;
+//	
+//	for(int i=1; i<11;i++) {
+//		String bogus="";
+//		for(int j=1;j<11;j++) {
+//			bogus+=Integer.toString(m)+" ";
+//			m=m+1;
+//		}
+//		System.out.println(bogus);
+//	}
 	
 	
 	//4
-	
-	//String three=" ";
-	
-		//for(int i=1;i<7;i++) {
-			//three+="*";
-			//System.out.println(three);
-		//}
+
+//		for(int i=1;i<7;i++) {
+//
+//			for(int j=0; j<i; j++) {
+//			System.out.print("*");
+//			}
+//			System.out.println(" ");
+//		}
 		
 	
 	//Bonus?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!
 	
-	//for(int i=0;i<1;i++) {
-		//for(int j=100;j>=0;j--) {
-			//System.out.println(j);
-		//}
-		
-	//}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+//	for(int i=0;i<101;i++) {
+//		int j= 100-i;
+//			System.out.println(j);
+//			}
 	
 	
 }	
