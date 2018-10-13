@@ -1,6 +1,8 @@
 
 package extratwo;
 
+import java.util.Random;
+
 import javax.swing.JOptionPane;
 
 public class Forloops {
@@ -103,6 +105,71 @@ public static void main(String[] args) {
 //			System.out.println(j);
 //			}
 	
+	
+	
+	
+	
+	
+	// Practice exam Questions
+	// (1
+	
+	//String favo= JOptionPane.showInputDialog("What is your favorite day of the week?");
+	//if(favo.equals("monday")) {
+		//JOptionPane.showMessageDialog(null,"You're lying!");
+	//}
+	//	JOptionPane.showMessageDialog(null,"You're lying!");
+	//}
+	
+	
+	// (2
+	
+	//String numnum = JOptionPane.showInputDialog("Give me a number");
+	//int x = Integer.parseInt(numnum) ;
+	//int y= x+x+x+x+x+x+x+x+x+x+1;
+	//for(int i=x; i<y;i+=x) {
+	//	System.out.println(i);
+	//}
+	
+	
+	//(3
+	
+	 // Random randy = new Random();
+	 //int q=randy.nextInt((160)-47); 
+	//System.out.println(q);
+	
+	
+	//(4
+	
+	//String fall= JOptionPane.showInputDialog("How many inches of rain have fallen?");
+	//int fill= Integer.parseInt(fall);
+	//if(fill<=2) {
+	//	JOptionPane.showMessageDialog(null,"Watch out for fires.");
+	//}
+	//else if(fill>2 && fill<10) {
+	//	JOptionPane.showMessageDialog(null,"The plants are happy.");
+	//}
+	//else {
+	//	JOptionPane.showMessageDialog(null,"You better buy a boat.");
+	//}
+	
+	
+	//(5
+	
+	//for(int i=1;i<101;i++) {
+		//if(i%7==0) {
+		//	System.out.println(i);
+		//}
+	//}
+	
+	
+	//(6
+	
+//int x=Multiply(6,2);
+	//System.out.println(x);
+//}
+//private static int Multiply(int x, int y) {
+//int m=x*y;
+	//return m;	
 	
 }	
 }
